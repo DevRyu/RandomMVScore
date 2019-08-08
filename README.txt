@@ -1,3 +1,4 @@
+# RandomMVScore 0.1version입니다.
 # 평점 : 1~10 난수
 # 사람 : 행
 # 영화 종류 : 열
